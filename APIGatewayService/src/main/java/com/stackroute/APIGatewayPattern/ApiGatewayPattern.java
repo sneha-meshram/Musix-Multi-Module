@@ -11,5 +11,4 @@ public class ApiGatewayPattern {
 	public static void main(String[] args) {
 		SpringApplication.run(ApiGatewayPattern.class, args);
 	}
-
 }
