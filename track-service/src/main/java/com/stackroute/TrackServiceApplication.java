@@ -6,7 +6,6 @@ import org.springframework.cloud.client.discovery.EnableDiscoveryClient;
 import org.springframework.context.annotation.PropertySource;
 
 @EnableDiscoveryClient
-@PropertySource("application.properties")
 @SpringBootApplication
 public class TrackServiceApplication {
 

@@ -2,39 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4a3c028d-2d0a-4cf8-b871-0dd75eeb1329" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/APIGatewayService/target/APIGatewayService-0.0.1-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/APIGatewayService/target/APIGatewayService-0.0.1-SNAPSHOT.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/APIGatewayService/target/APIGatewayService-0.0.1-SNAPSHOT.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/APIGatewayService/target/APIGatewayService-0.0.1-SNAPSHOT.jar.original" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/APIGatewayService/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/APIGatewayService/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/APIGatewayService/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/APIGatewayService/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/config-server/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/config-server/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config-server/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/config-server/target/classes/application.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/config-server/target/config-server-0.0.1-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/config-server/target/config-server-0.0.1-SNAPSHOT.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/config-server/target/config-server-0.0.1-SNAPSHOT.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/config-server/target/config-server-0.0.1-SNAPSHOT.jar.original" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config-server/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/config-server/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config-server/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/config-server/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/config-server/target/surefire-reports/TEST-com.stackroute.configserver.ConfigServerApplicationTests.xml" beforeDir="false" afterPath="$PROJECT_DIR$/config-server/target/surefire-reports/TEST-com.stackroute.configserver.ConfigServerApplicationTests.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/config-server/target/surefire-reports/com.stackroute.configserver.ConfigServerApplicationTests.txt" beforeDir="false" afterPath="$PROJECT_DIR$/config-server/target/surefire-reports/com.stackroute.configserver.ConfigServerApplicationTests.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka-server/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/eureka-server/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-server/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/eureka-server/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-server/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/eureka-server/target/classes/application.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/eureka-server/target/eureka-server-0.0.1-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/eureka-server/target/eureka-server-0.0.1-SNAPSHOT.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/eureka-server/target/eureka-server-0.0.1-SNAPSHOT.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/eureka-server/target/eureka-server-0.0.1-SNAPSHOT.jar.original" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka-server/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/eureka-server/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka-server/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/eureka-server/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka-server/target/surefire-reports/2019-08-16T12-03-02_976.dumpstream" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/eureka-server/target/surefire-reports/TEST-com.stackroute.eurekaserver.EurekaServerApplicationTests.xml" beforeDir="false" afterPath="$PROJECT_DIR$/eureka-server/target/surefire-reports/TEST-com.stackroute.eurekaserver.EurekaServerApplicationTests.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/eureka-server/target/surefire-reports/com.stackroute.eurekaserver.EurekaServerApplicationTests.txt" beforeDir="false" afterPath="$PROJECT_DIR$/eureka-server/target/surefire-reports/com.stackroute.eurekaserver.EurekaServerApplicationTests.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/track-service/src/main/java/com/stackroute/repository/TrackRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/track-service/src/main/java/com/stackroute/repository/TrackRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/track-service/src/main/java/com/stackroute/service/TrackDummyServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/track-service/src/main/java/com/stackroute/service/TrackDummyServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/track-service/src/main/java/com/stackroute/service/TrackServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/track-service/src/main/java/com/stackroute/service/TrackServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/track-service/src/main/java/com/stackroute/TrackServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/track-service/src/main/java/com/stackroute/TrackServiceApplication.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/track-service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/track-service/src/main/resources/application.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/track-service/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/track-service/target/classes/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/track-service/target/classes/com/stackroute/repository/TrackRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/track-service/target/classes/com/stackroute/repository/TrackRepository.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/track-service/target/classes/com/stackroute/service/TrackDummyServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/track-service/target/classes/com/stackroute/service/TrackDummyServiceImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/track-service/target/classes/com/stackroute/service/TrackServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/track-service/target/classes/com/stackroute/service/TrackServiceImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/track-service/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/track-service/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/track-service/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/track-service/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/track-service/target/track-service-0.0.1-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/track-service/target/track-service-0.0.1-SNAPSHOT.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/track-service/target/track-service-0.0.1-SNAPSHOT.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/track-service/target/track-service-0.0.1-SNAPSHOT.jar.original" afterDir="false" />
     </list>
@@ -146,7 +131,14 @@
       <option name="project" value="LOCAL" />
       <updated>1565937792529</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="update Dockerfile">
+      <created>1565947920991</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1565947920991</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -167,7 +159,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added Dockerfile" />
-    <option name="LAST_COMMIT_MESSAGE" value="added Dockerfile" />
+    <MESSAGE value="update Dockerfile" />
+    <option name="LAST_COMMIT_MESSAGE" value="update Dockerfile" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
