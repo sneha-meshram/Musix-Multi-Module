@@ -1,0 +1,13 @@
+/home/test/Documents/Musix/track-service/src/main/java/com/stackroute/domain/Track.java
+/home/test/Documents/Musix/track-service/src/main/java/com/stackroute/repository/TrackRepository.java
+/home/test/Documents/Musix/track-service/src/main/java/com/stackroute/service/TrackService.java
+/home/test/Documents/Musix/track-service/src/main/java/com/stackroute/config/SwaggerConfig.java
+/home/test/Documents/Musix/track-service/src/main/java/com/stackroute/service/TrackServiceImpl.java
+/home/test/Documents/Musix/track-service/src/main/java/com/stackroute/exceptions/TrackAlreadyExistsException.java
+/home/test/Documents/Musix/track-service/src/main/java/com/stackroute/controller/TrackController.java
+/home/test/Documents/Musix/track-service/src/main/java/com/stackroute/TrackServiceApplication.java
+/home/test/Documents/Musix/track-service/src/main/java/com/stackroute/service/TrackDummyServiceImpl.java
+/home/test/Documents/Musix/track-service/src/main/java/com/stackroute/seedData/CommandLineSeedData.java
+/home/test/Documents/Musix/track-service/src/main/java/com/stackroute/exceptions/TrackNotFound.java
+/home/test/Documents/Musix/track-service/src/main/java/com/stackroute/seedData/ApplicationListenerSeedData.java
+/home/test/Documents/Musix/track-service/src/main/java/com/stackroute/exceptions/GlobalException.java
