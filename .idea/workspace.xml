@@ -2,27 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4a3c028d-2d0a-4cf8-b871-0dd75eeb1329" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/APIGatewayService/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/APIGatewayService/Dockerfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/APIGatewayService/target/APIGatewayService-0.0.1-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/APIGatewayService/target/APIGatewayService-0.0.1-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/APIGatewayService/target/APIGatewayService-0.0.1-SNAPSHOT.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/APIGatewayService/target/APIGatewayService-0.0.1-SNAPSHOT.jar.original" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config-server/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/config-server/Dockerfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config-server/target/config-server-0.0.1-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/config-server/target/config-server-0.0.1-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config-server/target/config-server-0.0.1-SNAPSHOT.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/config-server/target/config-server-0.0.1-SNAPSHOT.jar.original" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config-server/target/surefire-reports/TEST-com.stackroute.configserver.ConfigServerApplicationTests.xml" beforeDir="false" afterPath="$PROJECT_DIR$/config-server/target/surefire-reports/TEST-com.stackroute.configserver.ConfigServerApplicationTests.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config-server/target/surefire-reports/com.stackroute.configserver.ConfigServerApplicationTests.txt" beforeDir="false" afterPath="$PROJECT_DIR$/config-server/target/surefire-reports/com.stackroute.configserver.ConfigServerApplicationTests.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka-server/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/eureka-server/Dockerfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka-server/target/eureka-server-0.0.1-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/eureka-server/target/eureka-server-0.0.1-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka-server/target/eureka-server-0.0.1-SNAPSHOT.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/eureka-server/target/eureka-server-0.0.1-SNAPSHOT.jar.original" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka-server/target/surefire-reports/TEST-com.stackroute.eurekaserver.EurekaServerApplicationTests.xml" beforeDir="false" afterPath="$PROJECT_DIR$/eureka-server/target/surefire-reports/TEST-com.stackroute.eurekaserver.EurekaServerApplicationTests.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka-server/target/surefire-reports/com.stackroute.eurekaserver.EurekaServerApplicationTests.txt" beforeDir="false" afterPath="$PROJECT_DIR$/eureka-server/target/surefire-reports/com.stackroute.eurekaserver.EurekaServerApplicationTests.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/track-service/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/track-service/Dockerfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/track-service/target/classes/com/stackroute/TrackServiceApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/track-service/target/classes/com/stackroute/TrackServiceApplication.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/track-service/target/track-service-0.0.1-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/track-service/target/track-service-0.0.1-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/track-service/target/track-service-0.0.1-SNAPSHOT.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/track-service/target/track-service-0.0.1-SNAPSHOT.jar.original" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/userservices/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/userservices/Dockerfile" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -43,6 +23,7 @@
   <component name="ProjectId" id="1PQgLL3g90a22GCVLwx35PqgpXG" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/userservices" />
@@ -146,7 +127,14 @@
       <option name="project" value="LOCAL" />
       <updated>1565954468183</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="docker compose commit">
+      <created>1566187318929</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1566187318929</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="UnknownFeatures">
