@@ -1,5 +1,12 @@
 version: "3"
 services:
+  mongo:
+    image: mongo
+    container_name: mongo-container
+    network_mode: host
+    volumes:
+      - /home/cgi/docker-volume:/data/db
+    restart: always
   config-server:
     build: config-server/
     ports:
@@ -31,7 +38,7 @@ services:
     restart: always
 
   user-service:
-    build: userserviceS/
+    build: userservices/
     ports:
       - 8081:8081
     restart: always
